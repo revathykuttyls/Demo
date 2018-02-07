@@ -1,2 +1,2 @@
 console.log('Done!');
-console.log('Git-Duet');
+console.log('Git-Duet Test');
